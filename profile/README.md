@@ -6,8 +6,6 @@
 
 <div align="center">
 
-<hr />
-
 <img src="./images/logo-light.svg" alt="interviews logo">
 
 # Interviews
